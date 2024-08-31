@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
+	File Name:	Timer.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
@@ -79,7 +79,6 @@ void configTMR0(int);
 // Global Variables  ----------------------------------------------------------
 
 /*>>>> setOsc4MHZ: -----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
@@ -94,7 +93,6 @@ void setOsc4MHz()
 }// eo setOsc4MHz::
 
 /*>>>> configPorts: -----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
@@ -114,7 +112,6 @@ void configPorts()
 }//eo configPorts::
 
 /*>>>> configADC: -----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
@@ -131,7 +128,6 @@ void configADC()
 }// eo configADC ::
 
 /*>>>> systemInitialization: -----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
@@ -163,7 +159,6 @@ void systemInitialization()
 } // eo systemInitialization ::
 
 /*>>>> sampleADC: -----------------------------------------------------------------------------
-	File Name:	ELNC6007DSLab4.c
 	Author:		Dhruv Satasiya
 	Date:		16/10/2023
 	Modified:	None
